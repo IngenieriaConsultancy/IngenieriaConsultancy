@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.bg-navy {
+  background-color: #003366 !important;
+}
+
+.text-navy {
+  color: #003366 !important;
+}
+
+.hero {
+  background-color: #003366;
+}
+
+.navbar-brand, .nav-link, footer {
+  color: white !important;
+}
+
+a.btn-light {
+  background-color: #c0c0c0;
+  color: #003366;
+}
+
+a.btn-light:hover {
+  background-color: #a9a9a9;
+}
